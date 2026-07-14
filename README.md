@@ -10,7 +10,7 @@ Interactive Power BI dashboard analyzing Meta (Facebook & Instagram) ad campaign
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](screenshots/01-overview.png)
+![Dashboard Overview](screenshot/01-overview.png)
 
 ---
 
